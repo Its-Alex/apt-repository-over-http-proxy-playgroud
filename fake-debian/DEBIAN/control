@@ -1,4 +1,6 @@
 Package: fake-debian
+Section: misc
+Priorities: optional
 Maintainer: ItsAlex
 Version: 1.0
 Architecture: all
