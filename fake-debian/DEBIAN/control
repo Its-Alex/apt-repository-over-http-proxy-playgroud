@@ -1,0 +1,5 @@
+Package: fake-debian
+Maintainer: ItsAlex
+Version: 1.0
+Architecture: all
+Description: Fake debian-package
